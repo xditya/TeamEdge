@@ -2,3 +2,5 @@ theme: jekyll-theme-minimal
 title: TeamEdge
 description: Introduction to TeamEdge
 logo: ./teamedge.png
+github:
+  is_project_page: false
