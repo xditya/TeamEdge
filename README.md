@@ -20,3 +20,5 @@ You can join our support group on telegram and send us your issue.
 
 # More Info
 Visit us on telegram, [@Team_Edge](https://t.me/Team_Edge) to know more.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxditya%2FTeamEdge&count_bg=%23FC1123&title_bg=%23000000&icon=expertsexchange.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
